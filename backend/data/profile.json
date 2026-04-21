@@ -1,0 +1,9 @@
+{
+  "roles": ["AI Engineer","ML Engineer","Generative AI Specialist","Agentic AI Developer"],
+  "skills": [
+    "Python","Machine Learning","Flask","AWS","GCP", "AI Architectures",
+    "Data Analysis","Deep Learning","APIs","SQL","GenAI Frameworks", "NLP","Computer Vision"
+  ],
+  "experience_years": 2.3,
+  "preferred_domains": ["AI","FinTech","Cloud","Analytics"]
+}
