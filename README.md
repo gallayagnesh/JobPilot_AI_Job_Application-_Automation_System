@@ -129,7 +129,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 Edit:
 
-- [backend/data/profile.json](/Users/yagnesh/Mine/Projects/job-automation/backend/data/profile.json:1)
+- [backend/data/profile.json](https://github.com/gallayagnesh/Job_Automation_AI_Project/blob/main/backend/data/profile.json)
 
 Example shape:
 
