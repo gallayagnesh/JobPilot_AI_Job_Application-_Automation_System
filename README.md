@@ -217,7 +217,7 @@ curl -X POST "http://127.0.0.1:8000/generate-resume?job_description=Machine%20Le
 
 There is an early Gmail integration in:
 
-- [backend/app/services/gmail_reader.py](/Users/yagnesh/Mine/Projects/job-automation/backend/app/services/gmail_reader.py:1)
+- [backend/app/services/gmail_reader.py](https://github.com/gallayagnesh/Job_Automation_AI_Project/blob/main/backend/app/services/gmail_reader.py)
 
 It currently:
 
