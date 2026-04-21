@@ -246,7 +246,7 @@ The project includes a few safety fallbacks:
 
 Single active database file:
 
-- [backend/jobs.db](/Users/yagnesh/Mine/Projects/job-automation/backend/jobs.db)
+- [backend/jobs.db](https://github.com/gallayagnesh/Job_Automation_AI_Project/blob/main/backend/jobs.db)
 
 The frontend and backend both use this file.
 
@@ -300,3 +300,7 @@ Check:
 ## License
 
 Use this project however you want for personal learning or portfolio work unless you want to add a formal license later.
+
+## Authors
+
+- [@gallayagnesh](https://github.com/gallayagnesh)
