@@ -1,4 +1,4 @@
-# JobPilot AI - An AI Powered Job Application Assistant
+# JobPilot AI - Job Application Automation System
 
 AI-assisted job processing project with a FastAPI backend, a Streamlit dashboard, SQLite job tracking, resume generation, and duplicate detection.
 
